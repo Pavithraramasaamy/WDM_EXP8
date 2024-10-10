@@ -1,4 +1,4 @@
-### EX8 Web Scraping On E-commerce platform using BeautifulSoup
+### EX-08 Web Scraping On E-commerce platform using BeautifulSoup
 ### DATE: 10-10-2024
 ### AIM: To perform Web Scraping on Amazon using (beautifulsoup) Python.
 ### Description: 
@@ -84,3 +84,4 @@ else:
 
 
 ### Result:
+Thus, To perform Web Scraping on SnapDeal using beautifulsoup has been executed successfully.
